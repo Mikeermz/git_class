@@ -1,3 +1,1 @@
-function saludo() {
-  return 'hola'
-}
+console.log("Hola soy Jam :)");
