@@ -1,3 +1,5 @@
+console.log("Hola soy Jam :)");
+
 function saludo() {
-  return 'hola'
+    return 'holas'
 }
